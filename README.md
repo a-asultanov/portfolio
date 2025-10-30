@@ -38,10 +38,9 @@ An asynchronous Telegram bot built with **aiogram 3.x** and **Flask API**, featu
 It allows users to explore video games by genre, year, and platform using the **RAWG.io API**.  
 Database: **PostgreSQL**.
 
-#### 2. (Upcoming projects)
-- Flask REST API Template  
-- FastAPI Microservice  
-- SQLAlchemy Practice  
+#### 2. [BookNest-API](https://github.com/a-asultanov/BookNest-API)
+A minimal REST API built with Flask for managing a personal book collection.
+Includes user authentication via JWT and full CRUD functionality. 
 
 ---
 
