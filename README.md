@@ -15,10 +15,9 @@
 Позволяет искать и просматривать игры по жанрам, годам и платформам, используя **RAWG.io API**.  
 База данных: **PostgreSQL**.
 
-#### 2. (будущие проекты)
-- Flask REST API Template  
-- FastAPI Microservice  
-- SQLAlchemy Practice  
+#### 2. [BookNest-API](https://github.com/a-asultanov/BookNest-API)
+Минималистичный REST API на Flask для управления коллекцией книг.
+Реализована регистрация, JWT-аутентификация и CRUD-операции.
 
 ---
 
