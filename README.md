@@ -41,6 +41,10 @@ Database: **PostgreSQL**.
 A minimal REST API built with Flask for managing a personal book collection.
 Includes user authentication via JWT and full CRUD functionality. 
 
+#### 3. [CryptoSignal-API](https://github.com/a-asultanov/CryptoSignal-API)
+CryptoSignal API is a minimal backend service built with Flask and SQLAlchemy that tracks cryptocurrency prices via the CoinGecko API. 
+It also includes a Telegram bot built with Aiogram 3 that allows users to request live prices directly from chat.
+
 ---
 
 ## Контакты / Contacts
