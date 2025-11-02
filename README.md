@@ -1,6 +1,6 @@
 # Портфолио Python-проектов
 
-## Описание (Russian)
+## Описание (RU)
 
 Этот репозиторий — моя коллекция Python-проектов, посвящённых backend-разработке.  
 Здесь собраны Telegram-боты, REST API и веб-приложения на Flask и FastAPI, а также инструменты для работы с базами данных.
@@ -30,7 +30,7 @@ Backend-система на Flask и PostgreSQL для управления по
 
 ---
 
-## English Version
+## Description (EN)
 
 This repository is my personal portfolio of Python projects focused on backend development.  
 It includes Telegram bots, REST APIs, and web applications built with Flask and FastAPI,  
