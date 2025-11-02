@@ -24,7 +24,7 @@
 Бот получает актуальные данные с CoinGecko API,
 отображает цены выбранных монет и обновляет их в реальном времени.
 
-#### 4. [WarehouseManager](https://github.com/a-asultanov/WarehouseManager))
+#### 4. [WarehouseManager](https://github.com/a-asultanov/WarehouseManager)
 Backend-система на Flask и PostgreSQL для управления поставщиками, товарами, заказами 
 и складскими остатками. Включает REST API, панель Flask-Admin и Docker-окружение.
 
@@ -54,7 +54,7 @@ Includes user authentication via JWT and full CRUD functionality.
 CryptoSignal API is a minimal backend service built with Flask and SQLAlchemy that tracks cryptocurrency prices via the CoinGecko API. 
 It also includes a Telegram bot built with Aiogram 3 that allows users to request live prices directly from chat.
 
-#### 4. [WarehouseManager](https://github.com/a-asultanov/WarehouseManager))
+#### 4. [WarehouseManager](https://github.com/a-asultanov/WarehouseManager)
 Warehouse & Procurement Manager — Flask + PostgreSQL backend system for managing suppliers, products, purchase orders, 
 and warehouse stock. Includes REST API, Flask-Admin dashboard, and Docker setup.
 
